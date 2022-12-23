@@ -1,0 +1,12 @@
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\bin\Debug\net6.0\TDD-GuildedRose.deps.json
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\bin\Debug\net6.0\TDD-GuildedRose.dll
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\bin\Debug\net6.0\TDD-GuildedRose.pdb
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.csproj.AssemblyReference.cache
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.GeneratedMSBuildEditorConfig.editorconfig
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.AssemblyInfoInputs.cache
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.AssemblyInfo.cs
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.csproj.CoreCompileInputs.cache
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.dll
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\refint\TDD-GuildedRose.dll
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\TDD-GuildedRose.pdb
+D:\JalaUniversity\Monitoring\Practicas\TDD-GuildedRose\obj\Debug\net6.0\ref\TDD-GuildedRose.dll
