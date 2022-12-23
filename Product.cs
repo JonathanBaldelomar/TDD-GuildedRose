@@ -50,7 +50,6 @@
         }
         public void UpdateBackstagePasses()
         {
-            this.SellIn--;
             if (this.SellIn > 0) this.SellIn--;
             if (this.SellIn == 0) this.Quality = 0;
             else
